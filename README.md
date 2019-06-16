@@ -4,6 +4,8 @@
 
 In meetings with desktop projection, it is often difficult to type in a projected desktop browser url bar. This extensions creates a larger option.
 
+See screenshot in this repo.
+
 NOTE: This doesn't work if you are chrome casting as the extention will not show.
 
 ## Requirements
